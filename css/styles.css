@@ -1,0 +1,19 @@
+* {
+    background-color:bisque;
+}
+
+h1 {
+    color: brown;
+    font-family: 'Rubik Beastly', cursive;
+    text-align: center;
+}
+
+ul {   
+    font-family:'Times New Roman', Times, serif;
+    background: #3399ff;
+    padding: 20px;
+}
+
+ul.a {
+    list-style-type:none; 
+}
